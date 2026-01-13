@@ -1,16 +1,9 @@
 [
   {
-    "listing": "/archive.html",
+    "listing": "/posts/blog.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/intro-to-r/index.html",
+      "/posts/not-so-basic-base-r-functions/index.html"
     ]
   }
 ]

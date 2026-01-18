@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "software/software.html",
+    "href": "software/software.html",
+    "title": " Software & Data",
+    "section": "",
+    "text": "I am developing specialized software for users who work exclusively with the R programming language. I still have a lot to learn, so at first I expect to publish data packages I also have some good ideas for more complex packages, but I plan to work on those in 2026… 😀\n\n\n    \n    \n    \n      \n      \n        \n          \n        \n        \n          The R package greekElectionsR provides data related to the Greek parliament from 1981 to 2019. Through the package, you can find information about the elected members of parliament for each period, the election results, and the votes of the elected presidents of the parliament.\n          \n             Repository\n          \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/software.html#r-packages",
+    "href": "software/software.html#r-packages",
+    "title": " Software & Data",
+    "section": "",
+    "text": "I am developing specialized software for users who work exclusively with the R programming language. I still have a lot to learn, so at first I expect to publish data packages I also have some good ideas for more complex packages, but I plan to work on those in 2026… 😀\n\n\n    \n    \n    \n      \n      \n        \n          \n        \n        \n          The R package greekElectionsR provides data related to the Greek parliament from 1981 to 2019. Through the package, you can find information about the elected members of parliament for each period, the election results, and the votes of the elected presidents of the parliament.\n          \n             Repository\n          \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/software.html#scraping-projects",
+    "href": "software/software.html#scraping-projects",
+    "title": " Software & Data",
+    "section": "Scraping Projects",
+    "text": "Scraping Projects\nData analysis requires data. However, it is rare that everything we want is freely available and organized. So we have to extract the necessary information from various sources. These are some projects where I extract data from various websites in order to analyze it in some of my articles. If you are interested in any of the data sets below, you can download them and perform your own analysis without needing to use R. You can also read the corresponding article for more technical details."
+  },
+  {
     "objectID": "posts/not-so-basic-base-r-functions/index.html",
     "href": "posts/not-so-basic-base-r-functions/index.html",
     "title": "Six not-so-basic base R functions",
@@ -75,20 +96,6 @@
     "title": " Posts",
     "section": "",
     "text": "An Introduction to \n\n      \n\n        \n          \n          Sep 23, 2024 •\n          \n          85 min\n        \n        \n        \n        \n        \n          \n          \n            R\n          \n            Code\n          \n            Analysis\n          \n            Programming\n          \n        \n\n        \n      \n    \n  \n    \n\n    \n      \n        \n      \n\n      \n        Six not-so-basic base R functions\n\n      \n\n        \n          \n          Jan 17, 2024 •\n          \n          11 min\n        \n        \n        \n        \n        \n          \n          \n            reference\n          \n        \n\n        There are so many goodies in base R. Let's explore some functions you may not know.\n      \n    \n  \n\n\nNo matching items\n Back to top"
-  },
-  {
-    "objectID": "gallery/interactive-charts/index.html",
-    "href": "gallery/interactive-charts/index.html",
-    "title": "Interactive charts",
-    "section": "",
-    "text": "[1] FALSE\n\n\n[1] FALSE\n\n\n[1] FALSE\n\n\n[1] FALSE"
-  },
-  {
-    "objectID": "gallery/interactive-charts/index.html#day-chart-challenge",
-    "href": "gallery/interactive-charts/index.html#day-chart-challenge",
-    "title": "Interactive charts",
-    "section": "",
-    "text": "[1] FALSE\n\n\n[1] FALSE\n\n\n[1] FALSE\n\n\n[1] FALSE"
   },
   {
     "objectID": "gallery/gallery.html",
@@ -201,5 +208,12 @@
     "title": "An Introduction to ",
     "section": "5 Unlocking ’s Hidden Power: Getting Started with  Packages",
     "text": "5 Unlocking ’s Hidden Power: Getting Started with  Packages\n packages"
+  },
+  {
+    "objectID": "software/r-packages/greekElectionsR/index.html",
+    "href": "software/r-packages/greekElectionsR/index.html",
+    "title": "greekElectionsR",
+    "section": "",
+    "text": "Back to top"
   }
 ]

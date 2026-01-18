@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/software/software.html",
+    "items": [
+      "/software/r-packages/greekElectionsR/index.html"
+    ]
+  },
+  {
     "listing": "/posts/blog.html",
     "items": [
       "/posts/intro-to-r/index.html",
